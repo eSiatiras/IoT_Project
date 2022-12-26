@@ -1,2 +1,5 @@
 # IoT_Project
  Modern Short and Long Range Communications
+
+
+The purpose of the work is the construction of a prototype (Proof of Concept) breath analyzer that detects blood alcohol levels, contributing to the awareness of drivers about the risks associated with the consumption of alcoholic beverages and road safety. Depending on the measurement it will print the appropriate messages. At the same time, the data will be centrally collected for further analysis. It will be a prototype of a device that is placed inside the car and will take a sample and based on the result will inform the driver about his driving ability and in case it is insufficient will prompt to enter the phone number of another driver as it is forbidden to be allowed to drive in case the alcohol limits have been exceeded as defined by Greek law. At the same time, the data from many devices will be gathered in an IoT platform for monitoring purposes.
